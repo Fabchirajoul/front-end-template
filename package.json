@@ -32,7 +32,9 @@
     "express": "^4.18.2",
     "node-red-contrib-machine-learning": "^1.0.8",
     "nodemon": "^3.0.1",
+    "python": "^0.0.4",
     "python-shell": "^5.0.0",
+    "python3": "^0.0.1",
     "scikit-learn": "^0.1.0",
     "sklearn": "^0.3.0"
   }
