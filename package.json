@@ -26,7 +26,7 @@
   "scripts": {
     "dev": "nodemon",
     "test": "",
-    "start": "node index.js && pip install --upgrade pip && pip install -r requirements.txt "
+    "start": "node index.js && pip install -r requirements.txt "
   },
   "dependencies": {
     "express": "^4.18.2",
