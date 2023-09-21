@@ -1,6 +1,6 @@
 # Python>=3.8
 scikit-learn
-sklearn
+sklearn'\n'
 pip
 setuptools
 numpy
