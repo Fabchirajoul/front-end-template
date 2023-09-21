@@ -2,6 +2,10 @@ import express from "express";
 
 import { PythonShell } from 'python-shell'
 
+import sklearn from sklearn
+
+
+
 
 
 const app = express();
